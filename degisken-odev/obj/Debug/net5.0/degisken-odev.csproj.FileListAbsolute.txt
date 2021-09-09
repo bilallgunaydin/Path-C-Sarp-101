@@ -1,0 +1,16 @@
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\bin\Debug\net5.0\degisken-odev.exe
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\bin\Debug\net5.0\degisken-odev.deps.json
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\bin\Debug\net5.0\degisken-odev.runtimeconfig.json
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\bin\Debug\net5.0\degisken-odev.runtimeconfig.dev.json
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\bin\Debug\net5.0\degisken-odev.dll
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\bin\Debug\net5.0\ref\degisken-odev.dll
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\bin\Debug\net5.0\degisken-odev.pdb
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\obj\Debug\net5.0\degisken-odev.csproj.AssemblyReference.cache
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\obj\Debug\net5.0\degisken-odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\obj\Debug\net5.0\degisken-odev.AssemblyInfoInputs.cache
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\obj\Debug\net5.0\degisken-odev.AssemblyInfo.cs
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\obj\Debug\net5.0\degisken-odev.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\obj\Debug\net5.0\degisken-odev.dll
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\obj\Debug\net5.0\ref\degisken-odev.dll
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\obj\Debug\net5.0\degisken-odev.pdb
+C:\Users\Bilal\Desktop\Pratikler\degisken-odev\obj\Debug\net5.0\degisken-odev.genruntimeconfig.cache
