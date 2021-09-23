@@ -1,0 +1,16 @@
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\bin\Debug\net5.0\method_Recursive - Extension.exe
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\bin\Debug\net5.0\method_Recursive - Extension.deps.json
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\bin\Debug\net5.0\method_Recursive - Extension.runtimeconfig.json
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\bin\Debug\net5.0\method_Recursive - Extension.runtimeconfig.dev.json
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\bin\Debug\net5.0\method_Recursive - Extension.dll
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\bin\Debug\net5.0\ref\method_Recursive - Extension.dll
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\bin\Debug\net5.0\method_Recursive - Extension.pdb
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\obj\Debug\net5.0\method_Recursive - Extension.csproj.AssemblyReference.cache
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\obj\Debug\net5.0\method_Recursive - Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\obj\Debug\net5.0\method_Recursive - Extension.AssemblyInfoInputs.cache
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\obj\Debug\net5.0\method_Recursive - Extension.AssemblyInfo.cs
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\obj\Debug\net5.0\method_Recursive - Extension.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\obj\Debug\net5.0\method_Recursive - Extension.dll
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\obj\Debug\net5.0\ref\method_Recursive - Extension.dll
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\obj\Debug\net5.0\method_Recursive - Extension.pdb
+C:\Users\Bilal\Desktop\Pratikler\method_Recursive - Extension\obj\Debug\net5.0\method_Recursive - Extension.genruntimeconfig.cache
